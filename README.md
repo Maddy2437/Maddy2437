@@ -96,7 +96,7 @@ Currently building AI-powered applications using modern LLM APIs.
 
 📧 Email: **f20240517@goa.bits-pilani.ac.in**
 
-💼 LinkedIn: *Coming Soon*
+💼 LinkedIn: *https://www.linkedin.com/in/madhav-pawankumar-soni-923517329/*
 
 🌐 Portfolio: *Coming Soon*
 
